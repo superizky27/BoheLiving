@@ -5408,7 +5408,19 @@ span.ui-slider-handle.ui-corner-all.ui-state-default:focus {
 
 /* line 10, ../../Arafath/CL/Cl November/224. Interior Design/HTML/scss/_bradcam.scss */
 .bradcam_bg_4 {
-  background-image: url(../img/banner/details.png);
+  background-image: url(../img/new/work1.jpeg);
+}
+
+.bradcam_bg_5{
+  background-image: url(../img/new/work4.jpeg);
+}
+
+.bradcam_bg_6{
+  background-image: url(../img/new/work2.jpeg);
+}
+
+.bradcam_bg_7{
+  background-image: url(../img/new/work3.jpeg);
 }
 
 /* line 13, ../../Arafath/CL/Cl November/224. Interior Design/HTML/scss/_bradcam.scss */
